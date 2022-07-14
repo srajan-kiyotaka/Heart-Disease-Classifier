@@ -15,8 +15,7 @@
 ![](https://github.com/srajan-kiyotaka/Heart-Disease-Classifier/blob/master/Images/model.png?raw=true)
 ## About Model
 - Train accuracy is 100 percent
-- Test accuracy is also 100 percent
-- The Model is not overfit or underfit
+- Test accuracy is also 95.6989 percent
 - Classes of Heart Disease
     - NORMAL
     - Myocardial
